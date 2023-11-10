@@ -1,7 +1,8 @@
 # MultiMediaLogic_Assigments
-Circuits built in MultiMediaLogic 
+Circuits Built in MultiMediaLogic 
 
-Below are screenshots of each circuit:
+
+Below are screenshots of each circuit,
 
 7 Segment LED:
 The LED segment counts from 0 to 11 in hexadecimal
